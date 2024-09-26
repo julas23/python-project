@@ -1,0 +1,10 @@
+class MyClassÇ
+    def __init__(aelf,attr)):
+        self.attr = attr
+
+    def __str__(self):
+            #return '12345'
+            return f"MyClass({self.attr})"
+my_class = MyClass(attr='abc')
+
+print(str(my_class))
