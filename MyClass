@@ -1,4 +1,4 @@
-class MyClassÇ
+class MyClass:
     def __init__(aelf,attr)):
         self.attr = attr
 
